@@ -1,15 +1,8 @@
 
 # README
 
-Sneaker Hub - Team 21
+Sneaker Hub
 
-
-
-## Authors
-
- - Developer 1: Jaskaran Sandhu
- - Developer 2: Harry Qu
- - Developer 3: Ibrahim Anees
 
 ## Run Locally
 
