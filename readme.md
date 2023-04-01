@@ -4,13 +4,6 @@
 Sneaker Hub - Team 21
 
 
-
-## Authors
-
- - Developer 1: Jaskaran Sandhu
- - Developer 2: Harry Qu
- - Developer 3: Ibrahim Anees
-
 ## Run Locally
 
     1) Clone the repository into a directory.
