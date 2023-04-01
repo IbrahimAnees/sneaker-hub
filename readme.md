@@ -1,7 +1,7 @@
 
 # README
 
-Sneaker Hub - Team 21
+Sneaker Hub
 
 
 ## Run Locally
